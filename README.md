@@ -1,3 +1,7 @@
+![Brand South Africa — N.White Systems engineering portfolio](assets/portfolio-brand.svg)
+
+[Portfolio overview](https://github.com/whitemorengwira) · [All case studies](https://github.com/whitemorengwira/nwhitesystems) · [N.White Systems](https://nwhite.systems/)
+
 # Brand South Africa — Production Engineering & Workflow Architecture
 ## Corporate · National Reputation Campaign · Corporate & Brand · Client: Brand South Africa / Ebony+Ivory
 
